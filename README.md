@@ -1,6 +1,6 @@
 # Hi there, I'm Maram 💌
 
-I'm a passionate **Backend Developer** with strong proficiency in **Node.js, Express.js, and PostgreSQL**. I specialize in building secure, scalable backend systems and robust RESTful APIs, leveraging my skills in authentication, authorization, CRUD operations, and MVC architecture.
+Passionate **Backend Developer** with strong proficiency in **Node.js, Express.js, and PostgreSQL**. I specialize in building secure, scalable backend systems and robust RESTful APIs, leveraging my skills in authentication, authorization, CRUD operations, and MVC architecture.
 
 ---
 
